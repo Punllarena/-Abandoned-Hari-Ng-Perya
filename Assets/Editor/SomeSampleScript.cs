@@ -10,6 +10,6 @@ public class SomeSampleScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+	//Comment to test if editing in browser will affect the local script.
 	}
 }
