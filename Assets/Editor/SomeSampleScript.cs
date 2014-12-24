@@ -13,3 +13,4 @@ public class SomeSampleScript : MonoBehaviour {
 	//Comment to test if editing in browser will affect the local script.
 	}
 }
+// F*c* this s*i*
