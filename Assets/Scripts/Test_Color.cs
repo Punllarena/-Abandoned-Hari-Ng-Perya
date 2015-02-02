@@ -11,7 +11,7 @@ public class Test_Color : MonoBehaviour {
 	public int magenta = 5;
 	public int black =6;*/
 	public float min = 1f;
-	public float max = 7f;
+	public float max = 6.9f;
 	//public Color pinkColor = new Color(1,0,1);
 
 	void Update () {
